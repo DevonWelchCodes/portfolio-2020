@@ -66,7 +66,7 @@ const Layout = ({ children }) => {
       </ThemeToggler>
 
       <div className="social-icons">
-        <a target="_blank" href="https://github.com/ICodeLul"><div className="social-icon rounded-full border-2 border-primary w-7 h-7 flex items-center justify-center transition-primary hover:bg-primary cursor-pointer mb-1">
+        <a target="_blank" href="https://github.com/DevonWelchCodes/"><div className="social-icon rounded-full border-2 border-primary w-7 h-7 flex items-center justify-center transition-primary hover:bg-primary cursor-pointer mb-1">
         <svg xmlns="http://www.w3.org/2000/svg" width="19.985" height="15.989" viewBox="0 0 19.985 15.989">
           <path id="github-alt-brands" d="M7.748,75.021c0,.87-.454,2.294-1.528,2.294s-1.528-1.424-1.528-2.294.454-2.294,1.528-2.294S7.748,74.151,7.748,75.021Zm12.237-2.1a9.024,9.024,0,0,1-.729,3.955c-1.578,3.189-5.916,3.114-9.022,3.114-3.156,0-7.753.112-9.393-3.114A8.912,8.912,0,0,1,0,72.918a7.16,7.16,0,0,1,1.728-4.73,6.518,6.518,0,0,1-.321-2.032A4.146,4.146,0,0,1,2.015,64a6.505,6.505,0,0,1,4.53,1.5,15.948,15.948,0,0,1,3.693-.416,14.363,14.363,0,0,1,3.348.383A6.435,6.435,0,0,1,18.074,64a4.107,4.107,0,0,1,.608,2.157,6.426,6.426,0,0,1-.321,2.007A7.174,7.174,0,0,1,19.985,72.918Zm-2.677,2.1a3.146,3.146,0,0,0-3.06-3.439,17.118,17.118,0,0,0-2.332.25,12.233,12.233,0,0,1-1.878.133,12.308,12.308,0,0,1-1.878-.133,16.84,16.84,0,0,0-2.332-.25,3.146,3.146,0,0,0-3.06,3.439c0,3.656,3.348,4.218,6.262,4.218h2.007C13.965,79.239,17.308,78.681,17.308,75.021Zm-3.439-2.294c-1.074,0-1.528,1.424-1.528,2.294s.454,2.294,1.528,2.294S15.4,75.891,15.4,75.021,14.943,72.727,13.869,72.727Z" transform="translate(0 -64)"/>
         </svg>
